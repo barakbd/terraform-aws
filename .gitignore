@@ -1,0 +1,7 @@
+*.tfplan
+*.tfstate
+*.tfstate.backup
+*.tfvars
+*.hcl
+.terraform/
+backend.tf
